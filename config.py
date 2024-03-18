@@ -1,1 +1,1 @@
-apikey = "sk-3YC6REb9siW5eQJTSLJNT3BlbkFJzkoAzLbN555vUDi4pXO"
+apikey = "sk-3YC6REb9siW5eQJTSLJNT3BlbkFJzkoAzLbN555vUDi4p"
